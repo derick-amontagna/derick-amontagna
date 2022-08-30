@@ -9,8 +9,6 @@
 
 - ✅ Learning every day about **Data Science and English**
 
-- 📄 Know about my experiences [acess my Linkedin page](acess my Linkedin page)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/derick-abreu-montagna-43a3a4189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/derick-abreu-montagna-43a3a4189/" height="30" width="40" /></a>
