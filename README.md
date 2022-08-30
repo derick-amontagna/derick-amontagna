@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [3778](https://www.3778.care/)
 
-- 🌱 I’m currently learning more about **machine learning techniques and deploy with FastAPI**
+- 🌱 I’m currently learning more about **Machine Learning techniques and deploy with FastAPI**
 
 - 📝 I’m currently studying on [UFSC](https://ppgeel.posgrad.ufsc.br/en/)
 
-- 📝 I’m currently studying on [UFSC](UFSC)
-
-- ✅ Learning every day about **Data Science**
+- ✅ Learning every day about **Data Science and English**
 
 - 📄 Know about my experiences [acess my Linkedin page](acess my Linkedin page)
 
