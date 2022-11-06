@@ -7,7 +7,7 @@
 
 - 📝 I’m currently studying on [UFSC](https://ppgeel.posgrad.ufsc.br/en/)
 
-- My personal [website](https://derickmontagna.onrender.com/)
+- 👨‍💻 My personal [website](https://derickmontagna.onrender.com/)
 
 - ✅ Learning every day about **Data Science and English**
 
